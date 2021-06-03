@@ -13,7 +13,6 @@ print star rectangle from user input : *****
                                        ***** (if input=5)
 '''
 
-
 #__________________________________________________________________
 #solve(while loop)
 print('Enter the number:\n')

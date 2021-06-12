@@ -4,7 +4,6 @@ Created on Mon Jun  7 22:03:40 2021
 
 @author: shahi
 """
-
 '''
 Comprihention: the process of making iterator. Making iterator like list and dictionary from a sequence is called comprehension, we can also make stes
 there are three part in a comprehention:

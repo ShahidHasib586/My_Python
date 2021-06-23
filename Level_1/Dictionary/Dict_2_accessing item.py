@@ -4,7 +4,6 @@ Created on Sun May 24 19:22:58 2021
 
 @author: shahi
 """
-
 '''
 Dictionary is kind of similar to list but there is also some differences, such as: dictionary is declared with {}. And there is no indexing like list in dictionary 
 instead of indexing there is (key), string, integer, tuple can be used as key but ['key'] is unusable, As like list where index indicates a value the key does the same 
